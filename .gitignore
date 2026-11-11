@@ -1,0 +1,10 @@
+# Secrets and local data: never commit these
+.env
+team.json
+config.json
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
